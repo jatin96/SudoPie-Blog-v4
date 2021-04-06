@@ -1,4 +1,4 @@
-baseURL: "exampleSite"
+baseURL: "https://sudopie.com/"
 title: PaperMod
 paginate: 5
 theme: PaperMod
