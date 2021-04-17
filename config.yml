@@ -78,8 +78,10 @@ params:
     homeInfoParams:
         Title: "Hi 👋, I am Jatin Narula"
         Content: >
-            **Welcome to SudoPie Blogs! I write about technology, engineering, productivity, lifestyle and leadership.**
-
+            **Welcome to SudoPie Blogs! I write about technology, engineering, productivity, lifestyle etc.**
+            <p align="left" style="margin-top: 10px">
+            <img width="175" height="175" src="../images/profile2.png">
+            </p>
 
     socialIcons:
         - name: github
