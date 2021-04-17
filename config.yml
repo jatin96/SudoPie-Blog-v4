@@ -34,6 +34,9 @@ languages:
                 - name: Categories
                   url: categories/
                   weight: 10
+                - name: About Me
+                  url: about/
+                  weight: 10
 
 outputs:
     home:
@@ -49,7 +52,7 @@ params:
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
@@ -73,13 +76,10 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "Hi, I am Jatin Narula"
+        Title: "Hi 👋, I am Jatin Narula"
         Content: >
-            Welcome to SudoPie Blogs. Here we talk about everything.
+            **Welcome to SudoPie Blogs! I write about technology, engineering, productivity, lifestyle and leadership.**
 
-            - **Not Your Typical Engineer**
-
-            - Socials
 
     socialIcons:
         - name: github
@@ -92,9 +92,9 @@ params:
           url: "https://www.facebook.com/jatin.jt.narula/"
 
     # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+    #     text: "SudoPie Blogs"
+    #     icon: ../images/logo.jpg
+    #     iconHeight: 50
 
     # analytics:
     #     google:
