@@ -50,8 +50,8 @@ params:
     author: Theme PaperMod
     # author: ["Me", "You"] # multiple authors
 
-    defaultTheme: auto
-    # disableThemeToggle: true
+    defaultTheme: light
+    disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: true
     # disableSpecial1stPost: true
