@@ -90,6 +90,8 @@ I have been a tablet user for more than 4 years now. I love to draw, design and 
 <img src="ipad.jpg">
 </p>
 
+~ Jatin Narula
+
 
 
 
