@@ -97,6 +97,9 @@ I have been trying to avoid screens at least 30 min before sleeping because it r
 The last step is probably the most important one because we tend to ignore this the most - **REFECT**. This is all about looking back once in a while and taking notes on what worked for you and want didn't. Remember ? There is **no single solution which works for all** so it's important to keep modifying our productivity system through timely retrospection.
 This is the step where you kind of try to modify the system according to your needs. There are many tips to do that as well. But I would want you to read the book for that :P. Too much spoon feeding is bad, isn't it ? 
 
+<p style="margin-top: 10px">
+<img src="fourth.jpg">
+</p>
 
 ## Conclusion
 
