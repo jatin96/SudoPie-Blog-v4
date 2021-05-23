@@ -20,7 +20,7 @@ I am **Jatin Narula** - *Software Engineer by profession and Artist by passion*.
 - On this website, I write blogs related to technology, engineering, producivity, lifestyle and my random thoughts
 - Life is ok.
 
-## Aur Batao ['Tell More']
+## Tell Me More About Jatin.
 
 - I am enjoying playing fingerstyle guitar during these so-called covid times. 
 - I have always loved art, and I sometimes draw and paint when motivation strikes.
