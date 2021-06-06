@@ -14,6 +14,7 @@ Hope all of you are doing great!
 
 I am **Jatin Narula** - *Software Engineer by profession and Artist by passion*.
 
+
 ## What is Jatin doing these days? 
 - Currently, I am working as a Full Stack Engineer at **Microsoft**. My areas of interest being both front-end and back-end development.
 - I am making content related to technology, engineering, productivity and lifestyle on my [Youtube Channel](https://www.youtube.com/channel/UCTtfPJ8hM5gH1H1ptgTTr9w).

@@ -79,24 +79,12 @@ params:
         Title: "Hi 👋, I am Jatin Narula"
         Content: >
             **Welcome to SudoPie Blogs! I write about technology, engineering, productivity, lifestyle etc.**
-
-            <div>
-              <div style="float: left; width: 33.33%; padding: 5px;">
                 <p align="left" style="margin-top: 10px">
                   <img width="175" height="175" src="../images/profile2.png">
                 </p>
+              <div style="margin-top: 20px">
+              <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sudop1e" data-color="#1e1a1a" data-emoji="" data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
               </div>
-              <div style="float: left; width: 33.33%; padding: 5px;margin-top: 65px">
-                <div>
-                    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sudop1e" data-color="#100f0f" data-emoji="" data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-                </div>
-                <div style="margin-top: 20px">
-                <script src="https://apis.google.com/js/platform.js"></script>
-                  <div class="g-ytsubscribe" data-channelid="UCTtfPJ8hM5gH1H1ptgTTr9w" data-layout="default" data-count="default"></div>
-                </div>
-              </div>
-            </div>
-
 
     socialIcons:
         - name: youtube
