@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 disqusShortname: sudopie
-# googleAnalytics: UA-123-45
+googleAnalytics: G-N128ZQF9RX
 
 minify:
     disableXML: true
