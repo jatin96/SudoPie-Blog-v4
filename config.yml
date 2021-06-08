@@ -79,11 +79,11 @@ params:
         Title: "Hi 👋, I am Jatin Narula"
         Content: 
             <div style="display:flex; flex-direction:row-reverse"">
-              <p align="left" style="margin-top:10px;width:35%">
-                <img width="175" height="175" src="../images/profile2.png">
-              </p>
+              <div align="right" class="image" style="margin-top:10px;width:80%;">
+                
+              </div>
               <div style="display:flex; flex-direction:column">
-                <span style="font-size:20px; font-weight:500; width:80%">Welcome to SudoPie Blogs! I write about technology, engineering, productivity, lifestyle etc.</span>
+                <span style="font-size:15px; font-weight:500; width:80%">Welcome to SudoPie Blogs! I write about technology, engineering, productivity, lifestyle etc.</span>
                 <div style="margin-top:20px">
                   <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sudop1e" data-color="#eeeeee" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00"></script>
                 </div>
