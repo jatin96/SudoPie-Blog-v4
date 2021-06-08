@@ -77,24 +77,33 @@ params:
 
     homeInfoParams:
         Title: "Hi 👋, I am Jatin Narula"
-        Content: >
-            **Welcome to SudoPie Blogs! I write about technology, engineering, productivity, lifestyle etc.**
-                <p align="left" style="margin-top: 10px">
-                  <img width="175" height="175" src="../images/profile2.png">
-                </p>
-              <div style="margin-top: 20px">
-              <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sudop1e" data-color="#1e1a1a" data-emoji="" data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+        Content: 
+            <div style="display:flex; flex-direction:row-reverse"">
+              <p align="left" style="margin-top:10px;width:35%">
+                <img width="175" height="175" src="../images/profile2.png">
+              </p>
+              <div style="display:flex; flex-direction:column">
+                <span style="font-size:20px; font-weight:500; width:80%">Welcome to SudoPie Blogs! I write about technology, engineering, productivity, lifestyle etc.</span>
+                <div style="margin-top:20px">
+                  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sudop1e" data-color="#eeeeee" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00"></script>
+                </div>
               </div>
+            </div>
 
     socialIcons:
         - name: youtube
           url: "https://www.youtube.com/channel/UCTtfPJ8hM5gH1H1ptgTTr9w"
-        - name: github
-          url: "https://github.com/jatin96"
         - name: instagram
           url: "https://instagram.com/jatin.jt.narula"
         - name: linkedin
           url: "https://www.linkedin.com/in/jatinnarula1996/"
+        - name: github
+          url: "https://github.com/jatin96"
+        - name: twitter
+          url: "https://twitter.com/jtnarula"
+        - name: facebook
+          url: "https://www.facebook.com/jatin.jt.narula"
+
 
     # label:
     #     text: "SudoPie Blogs"
