@@ -50,5 +50,4 @@ Sudo Scripts is my weekly(ish) email newsletter. It's free to signup and notifie
 </div>
 </div>
 </section>
-</html>
 {{< /rawhtml >}}
