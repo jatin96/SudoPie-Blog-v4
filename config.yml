@@ -37,6 +37,9 @@ languages:
                 - name: About Me
                   url: about/
                   weight: 10
+                - name: Sudo Scripts
+                  url: sudoscripts/
+                  weight: 1
 
 outputs:
     home:
